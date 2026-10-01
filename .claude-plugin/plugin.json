@@ -1,0 +1,9 @@
+{
+  "name": "notes-panel",
+  "version": "0.1.0",
+  "description": "A per-session markdown notepad in a pane beside the transcript",
+  "author": {
+    "name": "sickin"
+  },
+  "types": "./types/index.d.ts"
+}
